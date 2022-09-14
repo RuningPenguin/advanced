@@ -14,6 +14,6 @@ actions:
     type: primary
   - text: code
     link: ./code
-  - text: vite
-    link: ./vite-vue
+  - text: doc
+    link: ./doc
 ---
