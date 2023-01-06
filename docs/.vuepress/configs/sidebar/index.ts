@@ -22,7 +22,7 @@ export const SideBar: SidebarConfig = {
   '/doc': [
     {
       text: 'vite',
-      collapsible: true,
+      collapsible: false,
       children: [
         '/doc/vite-vue/index.md',
       ]
@@ -32,6 +32,13 @@ export const SideBar: SidebarConfig = {
       collapsible: true,
       children: [
         '/doc/homeBrew/index.md',
+      ]
+    },
+    {
+      text: 'nest',
+      collapsible: true,
+      children: [
+        '/doc/nest/index.md',
       ]
     },
   ],
