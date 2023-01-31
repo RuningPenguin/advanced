@@ -41,6 +41,13 @@ export const SideBar: SidebarConfig = {
         '/doc/nest/index.md',
       ]
     },
+    {
+      text: 'GameList',
+      collapsible: true,
+      children: [
+        '/doc/gameList/index.md',
+      ]
+    },
   ],
 
 }
