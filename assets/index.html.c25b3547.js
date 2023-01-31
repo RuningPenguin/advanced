@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7e255c0f","path":"/doc/gameList/","title":"GameList","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"contributors":[{"name":"wangxu","email":"xu.wang@nx-engine.com","commits":1}]},"filePathRelative":"doc/gameList/index.md"}');export{e as data};

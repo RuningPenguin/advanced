@@ -1,0 +1,1 @@
+import{_ as t,r as s,o,c as n,b as c,a as e,e as r}from"./app.a8513dae.js";const i={},_=e("h1",{id:"gamelist",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#gamelist","aria-hidden":"true"},"#"),r(" GameList")],-1);function d(l,m){const a=s("GameList");return o(),n("div",null,[_,c(a)])}const f=t(i,[["render",d],["__file","index.html.vue"]]);export{f as default};
